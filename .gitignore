@@ -45,3 +45,7 @@ credentials.json
 .mypy_cache/
 .pytest_cache/
 __pycache__/
+
+# Internal notes
+notes-*.md
+desc.md
