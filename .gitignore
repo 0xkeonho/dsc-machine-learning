@@ -1,0 +1,47 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets & Config
+.env
+*.env
+.env.*
+!.env.example
+credentials.json
+*secret*
+*.pem
+*.key
+
+# Data files (optional - uncomment if needed)
+# *.csv
+# *.xlsx
+# *.parquet
+# data/
+
+# Cache
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
