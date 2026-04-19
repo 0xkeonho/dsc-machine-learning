@@ -1,5 +1,16 @@
 # SCC Study Group - Machine Learning
 
+## Authors
+
+Proyek SCC Study Group - Machine Learning ini dikembangkan oleh:
+
+1. Fadhel Iqbal Hidayatullah
+2. Danish Rafie Ekaputra
+3. Abdillah Putra Tsamudra
+4. Mohamad azra Muntaha
+5. Jessica
+6. Fahriezal Azmi Shidqii A.
+
 Selamat datang di repositori resmi **SCC Study Group - Machine Learning**. Repositori ini berisi seluruh materi pembelajaran, kode sumber berupa Jupyter Notebook, dan dataset yang digunakan selama program studi kelompok berlangsung.
 
 Kurikulum ini dirancang untuk membangun fondasi yang kuat bagi para peserta, dimulai dari konsep matematika dasar dan pemrosesan data, hingga implementasi arsitektur jaringan saraf tiruan.
