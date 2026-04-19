@@ -1,3 +1,11 @@
-# DSC Machine Learning
+# Pertemuan 8: Implementasi Neural Network
 
-Materi Study Group Machine Learning.
+**Pengajar:** Putra
+
+## Topik
+- Neural Network dalam Matematika
+- Neural Network dalam Code Python
+
+---
+
+📎 *Upload materi di folder ini*
