@@ -1,5 +1,9 @@
 # SCC Study Group - Machine Learning
 
+Selamat datang di repositori resmi **SCC Study Group - Machine Learning**. Repositori ini berisi seluruh materi pembelajaran, kode sumber berupa Jupyter Notebook, dan dataset yang digunakan selama program studi kelompok berlangsung.
+
+Kurikulum ini dirancang untuk membangun fondasi yang kuat bagi para peserta, dimulai dari konsep matematika dasar dan pemrosesan data, hingga implementasi arsitektur jaringan saraf tiruan.
+
 ## Authors
 
 Proyek SCC Study Group - Machine Learning ini dikembangkan oleh:
@@ -10,10 +14,6 @@ Proyek SCC Study Group - Machine Learning ini dikembangkan oleh:
 4. Mohamad azra Muntaha
 5. Jessica
 6. Fahriezal Azmi Shidqii A.
-
-Selamat datang di repositori resmi **SCC Study Group - Machine Learning**. Repositori ini berisi seluruh materi pembelajaran, kode sumber berupa Jupyter Notebook, dan dataset yang digunakan selama program studi kelompok berlangsung.
-
-Kurikulum ini dirancang untuk membangun fondasi yang kuat bagi para peserta, dimulai dari konsep matematika dasar dan pemrosesan data, hingga implementasi arsitektur jaringan saraf tiruan.
 
 ## Silabus Pembelajaran
 
@@ -62,11 +62,3 @@ Gabungan teori matematika dan pemrograman dalam skala kompleks:
 * **Membangun Model NN:** Penjelasan cara membangun model Neural Network secara komprehensif, baik dari sisi matematis menggunakan Chain Rule pada kalkulus maupun dari sisi eksekusi pengkodean.
 
 ---
-
-## Cara Penggunaan & Persiapan
-
-Untuk menjalankan materi dalam repositori ini, Anda memerlukan lingkungan Python dan Jupyter Notebook.
-
-1. **Clone repositori ini:**
-   ```bash
-   git clone [https://github.com/0xkeonho/dsc-machine-learning.git](https://github.com/0xkeonho/dsc-machine-learning.git)
